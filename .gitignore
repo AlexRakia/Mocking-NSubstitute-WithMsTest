@@ -1,0 +1,12 @@
+/Example/MockingWithNSubstitute/bin
+/Example/MockingWithNSubstitute/obj
+/Example/MockingWithNSubstitute.Tests/obj
+/Example/MockingWithNSubstitute.Tests/bin
+/BasicExample-UserManagement/.vs
+/BasicExample-UserManagement/tests/UserManagement.Tests/obj
+/BasicExample-UserManagement/TestResults
+/Example-MockingWithNSubstitute/.vs
+/Example-MockingWithNSubstitute/MockingWithNSubstitute.Tests/obj
+/Example-MockingWithNSubstitute/MockingWithNSubstitute.Tests/bin
+/Example-MockingWithNSubstitute/MockingWithNSubstitute/obj
+/Example-MockingWithNSubstitute/MockingWithNSubstitute/bin
