@@ -1,0 +1,11 @@
+S:\My-GitHub\MockingWithNSubstitute\SimpleExample\src\UserManagement\bin\Debug\net8.0\UserManagement.deps.json
+S:\My-GitHub\MockingWithNSubstitute\SimpleExample\src\UserManagement\bin\Debug\net8.0\UserManagement.dll
+S:\My-GitHub\MockingWithNSubstitute\SimpleExample\src\UserManagement\bin\Debug\net8.0\UserManagement.pdb
+S:\My-GitHub\MockingWithNSubstitute\SimpleExample\src\UserManagement\obj\Debug\net8.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+S:\My-GitHub\MockingWithNSubstitute\SimpleExample\src\UserManagement\obj\Debug\net8.0\UserManagement.AssemblyInfoInputs.cache
+S:\My-GitHub\MockingWithNSubstitute\SimpleExample\src\UserManagement\obj\Debug\net8.0\UserManagement.AssemblyInfo.cs
+S:\My-GitHub\MockingWithNSubstitute\SimpleExample\src\UserManagement\obj\Debug\net8.0\UserManagement.csproj.CoreCompileInputs.cache
+S:\My-GitHub\MockingWithNSubstitute\SimpleExample\src\UserManagement\obj\Debug\net8.0\UserManagement.dll
+S:\My-GitHub\MockingWithNSubstitute\SimpleExample\src\UserManagement\obj\Debug\net8.0\refint\UserManagement.dll
+S:\My-GitHub\MockingWithNSubstitute\SimpleExample\src\UserManagement\obj\Debug\net8.0\UserManagement.pdb
+S:\My-GitHub\MockingWithNSubstitute\SimpleExample\src\UserManagement\obj\Debug\net8.0\ref\UserManagement.dll
